@@ -265,8 +265,9 @@
             5 - In-app Search
         This needs to match the constants in
         policy/src/com/android/internal/policy/impl/PhoneWindowManager.java
-    -->
-    <integer name="config_longPressOnHomeBehavior">3</integer>
+   
+    <integer name="config_longPressOnHomeBehavior">3</integer> -->
+
 
     <bool name="config_enableWifiDisplay">true</bool>
 
@@ -275,8 +276,8 @@
          The default is false. -->
     <bool name="config_lidControlsSleep">true</bool>
 
-    <!-- Performance profiles -->
+    <!-- Performance profiles 
     <string name="config_perf_profile_prop">sys.perf.profile</string>
-    <string name="config_perf_profile_default_entry">1</string>
+    <string name="config_perf_profile_default_entry">1</string> -->
 
 </resources>
